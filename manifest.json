@@ -1,0 +1,9 @@
+{
+    "name": "GanjaVal",
+    "version_number": "0.0.1",
+    "website_url": "https://www.github.com",
+    "description": "GanjaVAL HC SERVER MODS",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.800"
+    ]
+}
